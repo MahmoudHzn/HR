@@ -43,11 +43,6 @@ This dashboard provides key metrics and visualizations for analyzing workforce d
 - The underlying data source is not visible in this preview
 - Some metrics may be calculated from the raw data (e.g., attrition rate is likely calculated as Total Attrition/Total Employees)
 
-For questions about this dashboard, please contact the HR analytics team.
-# HR Analysis Dashboard - README  
-
-## Overview  
-This HR dashboard provides insights into employee demographics, attrition, job satisfaction, and departmental metrics. It helps organizations track workforce trends, identify retention challenges, and analyze employee satisfaction.  
 
 ---
 
