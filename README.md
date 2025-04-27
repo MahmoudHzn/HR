@@ -31,9 +31,7 @@ An interactive dashboard providing insights into workforce data, including attri
 - Key Metrics visualized: Attrition Rate, Employee Count, Satisfaction Levels, Compensation.
 - Demographic segmentation (age, education, etc.).
 
-## Notes
-- Some visualizations require refinement (e.g., gender distribution graph and years-at-company trends).
-- Attrition and satisfaction insights could be deepened with time-series data and department-specific analysis.
+
 
 
 
