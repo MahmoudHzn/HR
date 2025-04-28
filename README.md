@@ -1,6 +1,3 @@
-Of course! Here's the updated **README.md** including your "Closer" section:
-
----
 
 # HR Attrition Analysis Dashboard
 
